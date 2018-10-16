@@ -46,7 +46,7 @@ The data that we will be working with for this tutorial is Game of Thrones, the 
 
 
 ### Implementation
-The link to the project is available [here](link). Download the repository and run the code.
+The link to the project is available [here](https://github.com/sumanthd17/Articles/tree/master/searchEngine). Download the repository and run the code.
 In the remainder of the section I'll briefly explain the fragments of the code I used.
 
 * Here we use the built-in libraries of lucene for indexing each document. We call the StandardAnalyser() function for removing the stop words and Indexwriter() function writes to the indexed file.
